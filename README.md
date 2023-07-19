@@ -9,5 +9,12 @@
 - JIT just in time, PVM python virtual machine, JIT is faster than the interpreter(line by line).
 - Everything is considered an object in Python. even modules are also objects.
 - memory allocation and deallocation are done during runtime automatically, all these objects are stored on a separate memory called heap.
-
--
+- a variable is seen as a tag or name that is tied to some value,(a=1) which means the value '1' is created first in memory and then a tag by the name 'a'.
+- DataType: None type, boolean, Numeric(int, float, complex), Sequences(str, bytes,list, tuple, range), Sets(set, frozen set), Mapping(dict).
+- None type object does not contain any value, 'None' is used inside the function as the default value.
+- the list[] can store diff types of elements and can grow dynamically in memory.
+- tuple () elements can not be modified and the set {} is an unordered collection of elements and does not allow duplicate values.
+- Operators: Arithmetic(+ _ * / % **), Assignment(= += -= *= /= %= **= //=), unary(-), Relational(> >= < <= == !=), Logical(and or not), Boolean(true and true = true, False or false = false), Bitwise, Membership(in not in), Identity(Is is not).
+- an operator is a symbol that performs an operation and acts on some variables called operands.
+- math function: sqrt, ceil, floor factorial, pow, gcd
+- 
