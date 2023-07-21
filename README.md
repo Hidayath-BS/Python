@@ -17,4 +17,5 @@
 - Operators: Arithmetic(+ _ * / % **), Assignment(= += -= *= /= %= **= //=), unary(-), Relational(> >= < <= == !=), Logical(and or not), Boolean(true and true = true, False or false = false), Bitwise, Membership(in not in), Identity(Is is not).
 - an operator is a symbol that performs an operation and acts on some variables called operands.
 - math function: sqrt, ceil, floor factorial, pow, gcd
-- 
+- a,b = [int (x) for x in input ("enter two number").split(',')
+
