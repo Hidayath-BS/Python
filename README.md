@@ -20,5 +20,5 @@
 - a,b = [int (x) for x in input ("enter two number").split(',')
 - control statement: if, if else, if elif else, while loop, for loop, else suite, break, continue,pass, assert, return.
 - the group of statement in python is called suite.
-- 
+- synatx: assert expression, message 
 
