@@ -21,4 +21,5 @@
 - control statement: if, if else, if elif else, while loop, for loop, else suite, break, continue,pass, assert, return.
 - the group of statement in python is called suite.
 - synatx: assert expression, message 
-
+- array use less memory than lists and they offer faster execution than list.
+- import array, a = array.array('i',[5,6,7])
