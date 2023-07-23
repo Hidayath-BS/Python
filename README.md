@@ -23,3 +23,4 @@
 - synatx: assert expression, message 
 - array use less memory than lists and they offer faster execution than list.
 - import array, a = array.array('i',[5,6,7])
+- array methods: append,count, extend, index, pop, remove, 
