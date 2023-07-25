@@ -38,4 +38,7 @@
 - onces() ex: a=onces((3,4), float), zeroes () ex: b=zeros ((3,4), int)
 - eyes() function create 2d array and fills elements in the diagonal with 1s ex: a=eye(3)
 - reshape: b = reshape (a, (2,3))
+- Matrix represent a rectangular array of elements arranged in a row and column ex: a=Matrix([[1,2,3][4,5,6]]) or b= Matrix ("1 2; 3 4; 5 6")
+- m = Matrix( arange (12).reshape(3,4)
+- diagonal Matrix d=diagonal(mat),m = sort(mat), mat.max(), mat.min(), mat.sum(), mat.min()
 - 
