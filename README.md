@@ -25,3 +25,8 @@
 - import array, a = array.array('i',[5,6,7])
 - array methods: append,count, extend, index, pop, remove.
 - numpy is package that contains serveral classes, functions, variable etc to deal with scientific calculation in python.
+- vectorized operation: dividing or adding of 2 arrays called vectorized operation, these are fast, syntactically clear, compact code.
+- math operation on arrays: sum, prod,min,max,mean,sort.
+- any () function can be used to determine if any one element of the array is true.
+- all() function can be used to determine whether all elements in the array are true.
+- c = where (a>b , a , b)
