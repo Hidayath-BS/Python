@@ -30,3 +30,12 @@
 - any () function can be used to determine if any one element of the array is true.
 - all() function can be used to determine whether all elements in the array are true.
 - c = where (a>b , a , b)
+- ndim attribute represent number of dimensions in an array ex: arre.ndim
+- shape attribute , size attribute, dtype
+- reshape method is use full to change the shape of an array.ex: arr.reshape(2,5)
+- flatten () method is useful to return a copy of array collapsed into one dimension.
+- a 2d array is also considered as a Matrix.
+- onces() ex: a=onces((3,4), float), zeroes () ex: b=zeros ((3,4), int)
+- eyes() function create 2d array and fills elements in the diagonal with 1s ex: a=eye(3)
+- reshape: b = reshape (a, (2,3))
+- 
