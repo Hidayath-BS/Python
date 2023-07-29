@@ -41,4 +41,4 @@
 - Matrix represent a rectangular array of elements arranged in a row and column ex: a=Matrix([[1,2,3][4,5,6]]) or b= Matrix ("1 2; 3 4; 5 6")
 - m = Matrix( arange (12).reshape(3,4)
 - diagonal Matrix d=diagonal(mat),m = sort(mat), mat.max(), mat.min(), mat.sum(), mat.min()
-- 
+- number, string,tuples are immutable. list, set, dictionary are mutable object.
