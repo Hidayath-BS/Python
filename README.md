@@ -42,3 +42,10 @@
 - m = Matrix( arange (12).reshape(3,4)
 - diagonal Matrix d=diagonal(mat),m = sort(mat), mat.max(), mat.min(), mat.sum(), mat.min()
 - number, string,tuples are immutable. list, set, dictionary are mutable object.
+- functions represent reusable code
+- a function that calls itself is known as recursive function, it is useful solve complex program
+- a function without a name is called anonymous or lamda function
+- lambda function generally used with filter, map, reduce
+- filter function is useful to extract elements from a sequence depending on the result of functions
+- map function is useful to perform some operations on each element of sequence depending on function
+- reduce function reduce a sequence of elements to a single value by processing the elements according to function supplied 
