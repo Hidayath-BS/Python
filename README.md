@@ -51,4 +51,4 @@
 - reduce function reduce a sequence of elements to a single value by processing the elements according to function supplied 
 - a decorators is function that accept a function as parameter and return a function. decorator are useful to perform some additional processing required by function
 - a generator is a function that return a sequence of value or elements to return elements from a generator we have to use yield statement
-
+- "__name__" indicate whether the program is run as an individual program or as a module
