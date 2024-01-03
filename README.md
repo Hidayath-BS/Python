@@ -52,4 +52,7 @@
 - a decorators is function that accept a function as parameter and return a function. decorator are useful to perform some additional processing required by function
 - a generator is a function that return a sequence of value or elements to return elements from a generator we have to use yield statement
 - "__name__" indicate whether the program is run as an individual program or as a module
+- list is similar to an array, but it can store different types of elements
+- lst = list(range(4,9,2)
+- lists are mutable, means we can modify the content of list.
 - 
