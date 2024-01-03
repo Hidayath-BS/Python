@@ -55,4 +55,5 @@
 - list is similar to an array, but it can store different types of elements
 - lst = list(range(4,9,2)
 - lists are mutable, means we can modify the content of list.
+- lst.remove(11), lst.reverse(), lst = lst*2, a in lst
 - 
