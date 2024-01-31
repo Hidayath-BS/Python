@@ -1,0 +1,4 @@
+# converting a tuple into a list or vice versa by changing the keywords
+tpl =1,2,3
+lst = list(tpl)
+print(lst)

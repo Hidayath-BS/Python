@@ -1,0 +1,1 @@
+print(reduce(lambda x,y: x+y+z, [2,3,5], 0))
