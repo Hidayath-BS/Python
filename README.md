@@ -62,4 +62,4 @@ set1.interaection(set2)
 - list comprehension:
 even_squares = [x**2 for x in range (1,11) if x%2==0]
 - a tuple is similar to list but immutable
--
+- 
