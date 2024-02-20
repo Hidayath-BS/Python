@@ -65,4 +65,5 @@ even_squares = [x**2 for x in range (1,11) if x%2==0]
 - dictionary represent a group of elements arranged in the form of key value pair
 - to delete key value from dict
 del dict[`id`]
-- 
+- x.update({k:v}), x.items()
+- two list to dict.  z=zip(x,y)
