@@ -85,3 +85,5 @@ del dict[`id`]
 - classsname.methodname(),instancename.methodname()
 - self refers to current class instance
 - constructor is special method that is used to initialize instance variable of a class
+- types of method: instance method( access method, mutator method), class method, static method
+- 
