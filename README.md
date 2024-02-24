@@ -75,4 +75,6 @@ del dict[`id`]
 - some object may have similar behaviour such object belongs to same category called class
 - we can use class as models to creating object
 - encapsulation is a mechanism where data (variable) and code (method) that act on the data will bind together.ex class
+- both variable and methods are public by default
+- abstraction: we can hide the unnecessary data from the user and expose only that data that is interested to the user called abstraction ex car
 - 
