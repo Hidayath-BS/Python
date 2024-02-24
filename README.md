@@ -84,4 +84,4 @@ del dict[`id`]
 - class is a model of blueprint for creating object, class contains variable and methods
 - classsname.methodname(),instancename.methodname()
 - self refers to current class instance
-- 
+- constructor is special method that is used to initialize instance variable of a class
