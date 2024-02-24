@@ -70,3 +70,9 @@ del dict[`id`]
 - procedure oriented programming: the main task is divided into several sub task and each sub task represent as procedure or function.
 - object oriented programming: use of class and object in program is oops, A class is a module which itself contains data and methods to achieve the task, main task is divided into several sub task and these are represented as classes 
 - features of oops: class and object, encapsulation, abstraction, inheritance, polymorphism
+- entire oops methodology has been derived from a single root concept called object, and object is anything that really exist in the world
+- behaviour of object represented by attributes and action
+- some object may have similar behaviour such object belongs to same category called class
+- we can use class as models to creating object
+- encapsulation is a mechanism where data (variable) and code (method) that act on the data will bind together.ex class
+- 
