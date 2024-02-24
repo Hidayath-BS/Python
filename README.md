@@ -77,4 +77,11 @@ del dict[`id`]
 - encapsulation is a mechanism where data (variable) and code (method) that act on the data will bind together.ex class
 - both variable and methods are public by default
 - abstraction: we can hide the unnecessary data from the user and expose only that data that is interested to the user called abstraction ex car
+- variable with double score is private variable ex __y
+- to access this, instance.__classname__y
+- inheritance: creating new class from existing classes so that the new class will aquire all the features of existing class ex: class B(A):
+- polymorphism: polymorphism represent the ability to assume several different forms , in program method exhibiting diff behaviour in different context
+- class is a model of blueprint for creating object, class contains variable and methods
+- classsname.methodname(),instancename.methodname()
+- self refers to current class instance
 - 
