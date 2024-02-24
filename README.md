@@ -69,4 +69,4 @@ del dict[`id`]
 - two list to dict.  z=zip(x,y)
 - procedure oriented programming: the main task is divided into several sub task and each sub task represent as procedure or function.
 - object oriented programming: use of class and object in program is oops, A class is a module which itself contains data and methods to achieve the task, main task is divided into several sub task and these are represented as classes 
-- 
+- features of oops: class and object, encapsulation, abstraction, inheritance, polymorphism
