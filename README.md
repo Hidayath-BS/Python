@@ -101,4 +101,11 @@ del dict[`id`]
 - if a variable, object or method exhibits different behaviour in different contexts is called polymorphism.
 - python follow duck typing where the type of the object is not checked while invoking the method on the object. any object is accepted as long as that method is found in object
 - if any operator perform additional action Other than what it is meant for, it is called operator overloading (more parameters) 
-- 
+- an abstract method is a method whose actions is redefined in the sub class as per the requirement of the object
+- generally an abstract method is written without any body, it is possible to write with body too 
+- abstract method with body called concrete method 
+- not possible to create an object or instance to an abstract class/ interface 
+- every abstract method of abstract class should be derived from ABC class ie available in abc module 
+- an abstract class will become an interface when it contains only abstract methods and no concrete method 
+- the built in function global()[str] convert the string 'str' into a classname and return the class name
+- both abstract classes and interfaces are examples for polymorphism 
