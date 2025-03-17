@@ -87,4 +87,18 @@ del dict[`id`]
 - constructor is special method that is used to initialize instance variable of a class
 - constructor does not create an instant. the duty of the construction is to initialize or Store the beginning value into the instance variables. a constructor called only once.
 - types of method: instance method( access method, mutator method), class method, static method
+- concept of deriving new classes from the existing class such that the new classes inherit all the members of the existing classes is called inheritance
+- already existing class is called super class or base class and newly created class is sub class or derived class
+- class subclass(baseclass):
+- all the members of the super class are available to the sub class,(variables and methods too)
+- writing methods in the sub class with the same name as that of super class methods is called method overloading
+- in this case super class methods is not available. only sub class methods is executed always 
+- super () is a method that is useful to refer to all members of the super class from a sub class. super().__init__(), super().methods()
+- python support single inheritance and multiple inheritance.
+- one or more sub class from single base class is called single inheritance.
+- deriving sub class from multiple base class is called multiple inheritance
+- MRO: starting from current class, searching in parents class in depth first,left to right fashion without searching the same class twice is called method resolution order
+- if a variable, object or method exhibits different behaviour in different contexts is called polymorphism.
+- python follow duck typing where the type of the object is not checked while invoking the method on the object. any object is accepted as long as that method is found in object
+- if any operator perform additional action Other than what it is meant for, it is called operator overloading (more parameters) 
 - 
