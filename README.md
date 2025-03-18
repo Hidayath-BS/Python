@@ -118,4 +118,11 @@ del dict[`id`]
 - exception handling is done using try except finally else block
 - raise statement is use full to raise user defined exception 
 - logging module is useful to store exception or error message into log file
+- data stored in storage media like hhd cd called file
+- python support text file, binary file
+- open() method open a file for some operations like writing, reading appending. close () method close the file
+- we need not close the file of we open the file using with statement
+- encode() method convert the string into byte so that it can be written into a binary file 
+- binary string can be converted into ordinary string using decode() method 
+- zipping and unzipping of files can be done using zipfile class of zipfile module 
 - 
