@@ -108,4 +108,14 @@ del dict[`id`]
 - every abstract method of abstract class should be derived from ABC class ie available in abc module 
 - an abstract class will become an interface when it contains only abstract methods and no concrete method 
 - the built in function global()[str] convert the string 'str' into a classname and return the class name
-- both abstract classes and interfaces are examples for polymorphism 
+- both abstract classes and interfaces are examples for polymorphism
+- error in python: compile time error, runtime error, logical error
+- an exception is an error that can be handled by a programmer. if the programmer cannot handle it, then it will not be an exception it will become an error.
+- exception occur only at runtime 
+- error that occurs at compilation time are not called exceptions. also logical errors cannot come into exception category
+- all exception are sub class of base exception class
+- all user defined exception should be derived from exception class
+- exception handling is done using try except finally else block
+- raise statement is use full to raise user defined exception 
+- logging module is useful to store exception or error message into log file
+- 
