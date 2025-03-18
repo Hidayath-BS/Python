@@ -125,4 +125,5 @@ del dict[`id`]
 - encode() method convert the string into byte so that it can be written into a binary file 
 - binary string can be converted into ordinary string using decode() method 
 - zipping and unzipping of files can be done using zipfile class of zipfile module 
-- 
+- the os module is useful to perform several operation on directories like finding the currently working directory, changing directory, renaming deleting.
+- system() method of os module is useful to run command or execution program from our python program 
