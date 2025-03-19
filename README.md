@@ -128,4 +128,14 @@ del dict[`id`]
 - the os module is useful to perform several operation on directories like finding the currently working directory, changing directory, renaming deleting.
 - system() method of os module is useful to run command or execution program from our python program
 - regular expression is a string that contains special symbol and character to find and extract the information needed by us from given data
+- a data structure represent logical arrangement of elements in memory in a particular model. data structure are also known as abstract data type(ADTs)
+- stack, linkedlist, queue are important data structure which are used in most software
+- a linked list is a setbof nodes such that each node contains a data field to store data and two link field to refer to the previous node and next node
+- insertion, deletion, replacing elements are more important operation in case of linked list
+- a stack represent a group of elements arranged in memory in lifo manner 
+- push, pop, peep or peek operation in case of stack 
+- a queue is a data structure where the first element which enter the queue will come out first called fifo
+- in queues elements are added in rear and poped in front 
+- deque or double ended queue is a queue where elements can be inserted deleted from both end
+- deque is More efficient than normal queue in term of memory and speed 
 - 
