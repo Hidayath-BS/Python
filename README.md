@@ -138,4 +138,15 @@ del dict[`id`]
 - in queues elements are added in rear and poped in front 
 - deque or double ended queue is a queue where elements can be inserted deleted from both end
 - deque is More efficient than normal queue in term of memory and speed 
-- 
+- a thread represent a separate path of execution of a group of Statements. a thread can be imagined as a light weight process that execute a group of Statements.
+- statement of every python program are executed by default thread called Main thread 
+- current_thread_().getName() method return the name of the currently running thread 
+- executing the task only one at a time is called single tasking. single tasking cannot use the processor time in efficient manner
+- executing more than one task at a time is called multitasking. multitasking utilizes the process time in an optimum manner
+- two types of multitasking, process-based multitasking and thread-baeed multitasking
+- we can create a thread by creating an object to thread class as 
+t = Thread(target=functionname, [args=(arg1,args2...)])
+- we can create a thread as an instance of sub class to thread class. in this case we have to override the run() method of thread class in the sub class
+- when thread is already acting on an object, preventing any other threads from acting on the same object is called thread synchronous or thread safe
+- a queue can also be used to achieve efficient thread communication
+- when a thread has locked an object and waiting for another object to be realised by another thread, other thread also Waiting for the first thread to release so continue forever waiting called deadlock 
